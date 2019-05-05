@@ -464,6 +464,7 @@ pre {
 .container {
   width: 100%;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
   padding-right: 15px;
   padding-left: 15px;
   /*padding-bottom: 30px;*/
