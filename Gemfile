@@ -27,4 +27,5 @@ group :jekyll_plugins do
   gem 'tzinfo-data'
   gem 'tzinfo'
   gem 'webrick'
+  gem 'jekyll-target-blank'
 end

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ryann Sim"
 title_separator          : "-"
-name                     : &name "Ryann"
+name                     : &name "Ryann Sim"
 description              : &description "personal description"
 url                      : https://ryannsim.github.io # the base hostname & protocol for your site e.g. "https://ryannsim.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Ryann Sim"
+  avatar           : "headshot3.jpeg"
+  bio              : "PhD Candidate @ SUTD"
+  location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com.sg/citations?user=nejjvjcAAAAJ&hl=en"
+  email            : "mailto:ryann_sim@mymail.sutd.edu.sg"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ryanndelion"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ryann-sim-06206b116"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  blog		   :  "https://dankerdays.wordpress.com/"
 
 
 # Reading Files
