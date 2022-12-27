@@ -25,6 +25,8 @@ Outside of research, I am an over-analyzer of movies and an avid reader of poetr
 
 ## Research Highlights
 <!-- ![Gif example]("files/egtsquared.gif") -->
-### Poincare recurrence of endogenously evolving network Rock-Paper-Scissors game.
-<img src="files/egtsquared.gif" alt="description of gif" width="600" /> 
+#### Poincaré recurrence of endogenously evolving network Rock-Paper-Scissors game.
+<img src="files/egtsquared.gif" alt="description of gif" width="600"/> 
+The system shown here is a 5-player Rock-Paper-Scissors type game played on a graph (i.e. each player plays against their neighbours on a predefined graph). We show the replicator trajectories of the first strategy (i.e. probability of playing Rock) of each player via a 4D embedding. The animation shows that for a range of initial conditions, the players trajectories remain bounded, a necessary step in proving that the system is Poincaré recurrent.
+
 
