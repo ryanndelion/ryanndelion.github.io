@@ -26,7 +26,15 @@ Outside of research, I am an over-analyzer of movies and an avid reader of poetr
 ## Research Highlights
 <!-- ![Gif example]("files/egtsquared.gif") -->
 ### Poincaré recurrence of endogenously evolving network Rock-Paper-Scissors game.
-<img src="files/egtsquared.gif" alt="description of gif" width="600"/> 
-<sub>The system shown here is a 5-player Rock-Paper-Scissors type game played on a graph (i.e. each player plays against their neighbours on a predefined graph). We show the replicator trajectories of the first strategy (i.e. probability of playing Rock) of each player via a 4D embedding. The animation shows that for a range of initial conditions, the players trajectories remain bounded, a necessary step in proving that the system is Poincaré recurrent.</sub>
+<!-- <figure> -->
+<img class="align-center" src="files/egtsquared.gif" alt="Poincaré reccurence with multiple initial conditions" width="600" height=auto display=block margin=auto/> 
+<figcaption>The system shown here is a 5-player Rock-Paper-Scissors type game played on a graph (i.e. each player plays against their neighbours on a predefined graph). We show the replicator trajectories of the first strategy (i.e. probability of playing Rock) of each player via a 4D embedding. The animation shows that for a range of initial conditions, the players trajectories remain bounded, a necessary step in proving that the system is Poincaré recurrent.</figcaption>
+<!-- </figure> -->
+
+<p></p>
+
+### Conservation of KL-Divergence in Poincaré recurrent systems
+<img class="align-center" src="files/onlinelearningperiodic.png" alt="Poincaré reccurence with multiple initial conditions" border-radius="5px" width="600" height=auto display=block margin=auto/> 
+<figcaption>A key element of proving Poincaré recurrence is showing that some notion of volume is conserved. In standard systems where players select mixed strategies on the n-dimensional simplex, the relevant notion of volume is the sum of the KL-divergences of each player from the Nash equilibrium. In the figure above we show this property for a 64-player polymatrix game where the game itself is changing periodically over time. In this case, the sum of divergences experimentally sums to a constant, and we are able to prove that recurrence holds in this type of periodically evolving system.</figcaption>
 
 
