@@ -34,7 +34,7 @@ Outside of research, I am an over-analyzer of movies and an avid reader of poetr
 <p></p>
 
 ### Conservation of KL-Divergence in Poincaré recurrent systems
-<img class="align-center" src="files/onlinelearningperiodic.png" alt="Poincaré reccurence with multiple initial conditions" border-radius="5px" width="600" height=auto display=block margin=auto/> 
+<img class="align-center" src="files/onlinelearningperiodic.PNG" alt="Poincaré reccurence with multiple initial conditions" border-radius="5px" width="600" height=auto display=block margin=auto/> 
 <figcaption>A key element of proving Poincaré recurrence is showing that some notion of volume is conserved. In standard systems where players select mixed strategies on the n-dimensional simplex, the relevant notion of volume is the sum of the KL-divergences of each player from the Nash equilibrium. In the figure above we show this property for a 64-player polymatrix game where the game itself is changing periodically over time. In this case, the sum of divergences experimentally sums to a constant, and we are able to prove that recurrence holds in this type of periodically evolving system.</figcaption>
 
 
