@@ -19,7 +19,7 @@ Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I
 Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir.
 
 ## Latest News
-- I'll be starting an internship/research attachment at [SUFE](https://itcs.sufe.edu.cn/), Shanghai, under the supervision of [Xiao Wang](https://xiiaowang.github.io/) in Spring 2023.
+- I completed a research attachment at [SUFE](https://itcs.sufe.edu.cn/), Shanghai, under the supervision of [Xiao Wang](https://xiiaowang.github.io/) in Spring 2023.
 - [Nov 2022] Attended and presented two papers at NeurIPS 2022.
 - [Oct 2022] 1 paper accepted at SOSA 2023.
 
@@ -33,8 +33,12 @@ Outside of research, I am an over-analyzer of movies and an avid reader of poetr
 
 <p></p>
 
-### Conservation of KL-Divergence in Poincaré recurrent systems
+### Conservation of KL-Divergence in Poincaré recurrent systems.
 <img class="align-center" src="files/onlinelearningperiodic.PNG" alt="Poincaré reccurence with multiple initial conditions" border-radius="5px" width="600" height=auto display=block margin=auto/> 
 <figcaption>A key element of proving Poincaré recurrence is showing that some notion of volume is conserved. In standard systems where players select mixed strategies on the n-dimensional simplex, the relevant notion of volume is the sum of the KL-divergences of each player from the Nash equilibrium. In the figure above we show this property for a 64-player polymatrix game where the game itself is changing periodically over time. In this case, the sum of divergences experimentally sums to a constant, and we are able to prove that recurrence holds in this type of periodically evolving system.</figcaption>
 
 
+### Poincaré recurrence of quantum replicator in a two-player quantum zero-sum game.
+<!-- <figure> -->
+<img class="align-center" src="files/bloch_rep.gif" alt="Poincaré reccurence of quantum replicator" width="400" height=auto display=block margin=auto/> 
+<figcaption>The trajectories of two players using quantum replicator dynamics is shown on the Bloch sphere. The players' trajectories are formally recurrent.</figcaption>
