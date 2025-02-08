@@ -10,9 +10,10 @@ redirect_from:
 
 # About Me
 
-I am a PhD candidate at the [Singapore University of Technology and Design](https://sutd.edu.sg), in the [Engineering Systems and Design](https://esd/sutd.edu.sg) pillar. I am fortunate to be advised by the wonderful [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/) and supported by the [SUTD President's Graduate Fellowship](https://sutd.edu.sg/Admissions/Graduate/Scholarships).
+I am a postdoctoral researcher at the [Singapore University of Technology and Design](https://sutd.edu.sg) (SUTD), working with [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/) and [Georgios Piliouras](https://people.sutd.edu.sg/~georgios/). 
+I received my PhD from SUTD in 2024, where I was fortunate to be advised by Georgios Piliouras and supported by the [SUTD President's Graduate Fellowship](https://sutd.edu.sg/Admissions/Graduate/Scholarships).
 
-My primary research interest is in applying game theory and optimization to machine learning problems, though I am also broadly interested in the intersection between ethics, social choice theory and game theory. My PhD thesis revolves around understanding the algorithmic and dynamical properties of online learning algorithms such as [Multiplicative Weights Update](https://en.wikipedia.org/wiki/Multiplicative_weight_update_method) in various contexts, from multi-agent to quantum settings.
+My primary research interest is in studying multiagent systems through the lens of game theory, machine learning and optimization. I am also broadly interested in the intersection between practical ethics, social choice theory and game theory. My PhD thesis revolved around understanding the algorithmic and dynamical properties of online learning algorithms such as Multiplicative Weights Update in various contexts, from multi-agent to quantum settings. My dissertation is titled Online Learning in Games: Clairvoyance, Convergence and Recurrence and can be found <a href="../files/RyannDissertationFinalVersion.pdf" target="_blank">here</a>.
 
 Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I studied Operations Research in the ESD pillar. I graduated Summa Cum Laude in 2019.
 
