@@ -19,7 +19,8 @@ Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I
 Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir.
 
 ## Latest News
-- I completed a research attachment at [SUFE](https://itcs.sufe.edu.cn/), Shanghai, under the supervision of [Xiao Wang](https://xiiaowang.github.io/) in Spring 2023.
+- [Dec 2024] 1 paper accepted to Quantum journal.
+- Completed a research attachment at [SUFE](https://itcs.sufe.edu.cn/), Shanghai, under the supervision of [Xiao Wang](https://xiiaowang.github.io/) in Spring 2023.
 - [Nov 2022] Attended and presented two papers at NeurIPS 2022.
 - [Oct 2022] 1 paper accepted at SOSA 2023.
 
