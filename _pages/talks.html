@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
@@ -13,4 +13,15 @@ author_profile: true
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
+{% endfor %} -->
+
+{% include base_path %}
+<ul>
+  <li>'On Un(der)‑Regularized Learning in Symmetric Zero‑Sum Games’. University of Adelaide, Australia, Feb. 2025</li>
+  <!-- <li>Graduate Teaching Assistant for 40.012 Manufacturing and Service Operations</li>
+  <li>Graduate Teaching Assistant for 40.015 Simulation Modeling and Analysis</li> -->
+</ul> 
+<!-- As an undergrad I have also TA-ed for various math and operations research related classes. -->
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
