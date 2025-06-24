@@ -17,7 +17,7 @@ My primary research interest is in studying multiagent systems through the lens 
 
 Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I studied Operations Research in the ESD pillar. I graduated Summa Cum Laude in 2019.
 
-Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir.
+<!-- Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir. -->
 
 ## Latest News
 - [May 2025] Our paper `Fast and Furious Symmetric Learning in Zero-Sum Games: Gradient Descent as Fictitious Play' has been accepted to COLT 2025.

@@ -1,18 +1,20 @@
 ---
 layout: archive
-title: "Personal Projects"
+title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
 
 {% include base_path %}
+## My Name and Background
+My last name is Sim (沈 in Mandarin), and is pronounced how it's spelt. My Chinese given name is Wei Jian (伟健 in Mandarin), though I usually prefer to use my English name. I am from Ipoh, Malaysia and am always happy to talk at length about the cultures, cuisines and histories of my home country and the South East Asian regional in general.
 
-In addition to research I like doing a bunch of other things, mostly revolving around music, tabletop games and film.
+In addition to research I spend a lot of time exploring personal interests, which mostly revolve around music, poetry, tabletop games and film.
 
 ## Current Projects
-- I am running a tabletop role-playing game workshop for [Glyph Community](https://www.glyphcommunity.com/), a children's charity in Singapore. 
-- I have joined [One Chamber Choir](https://www.instagram.com/onechamberchoir/) as a Bass!
+- I have joined [One Chamber Choir](https://www.instagram.com/onechamberchoir/) as a Bass! In October, we will be competing in the [European Grand Prix (Maribor)](https://www.egpchoral.com/about-us/maribor/).
 - I'm writing a musical with the [SoDa Players](https://www.facebook.com/Sodaplayers/), an amateur musical theatre troupe.
+- I am passionate about wildlife and forest conservation in my home country of Malaysia, and have recently been involved in conservation efforts to save the Malayan Tiger (a critically endangered species endemic to Peninsular Malaysia). I also strongly believe that game theory and optimization can and should inform conservation efforts worldwide.
 
 
 <!-- ## Completed Projects
