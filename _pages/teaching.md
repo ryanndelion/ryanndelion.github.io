@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 # Talks
+
 Some recent and relevant talks:
 <ul>
   <li> Invited Talk: 'No‑Regret Learning and Equilbrium Computation in Quantum Games'. INFORMS International, Singapore, Jul. 2025</li>
@@ -15,6 +16,7 @@ Some recent and relevant talks:
 </ul> 
 
 # Teaching
+
 I am passionate about teaching, and am always open to mentorship and teaching opportunities. 
 The following list includes classes I co-taught as a postdoc and TA-ed for as a PhD student at SUTD. 
 My duties included delivering lectures, holding recitations/office hours and creating course content.
