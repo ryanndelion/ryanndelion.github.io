@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Talks & Teaching"
+title: "Talks"
 permalink: /teaching/
 author_profile: true
 ---
 
 <!-- {% include base_path %} -->
-# Talks
+<!-- # Talks -->
 
 Some recent and relevant talks:
 <ul>
