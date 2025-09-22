@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## My Name and Background
-My last name is Sim (沈 in Mandarin), and is pronounced how it's spelt. My Chinese given name is Wei Jian (伟健 in Mandarin), though I usually prefer to use my English name. I am from Ipoh, Malaysia and am always happy to talk at length about the cultures, cuisines and histories of my home country and the South East Asian region in general.
+My last name is Sim (沈/*shěn*  in Mandarin), and is pronounced how it's spelt. My Chinese given name is Wei Jian (伟健/*wěi jiàn* in Mandarin), though I usually prefer to use my English name. I am from Ipoh, Malaysia and am always happy to talk at length about the cultures, cuisines and histories of my home country and the South East Asian region in general.
 
 In addition to research I spend a lot of time exploring personal interests, which mostly revolve around music, poetry, tabletop games and film.
 
