@@ -52,49 +52,49 @@ author_profile: true
   <li> 
   John Lazarsfeld, Georgios Piliouras, Ryann Sim, and Stratis Skoulakis.<br>
   <b>Optimism Without Regularization: Constant Regret in Zero‑Sum Games.</b>
-  <br>Advances in Neural Information Processing Systems, 38, 2025.<br>
+  <br><em>Advances in Neural Information Processing Systems, 38, 2025.</em><br>
   <!-- <a href="https://arxiv.org/abs/2506.13086" target="_blank">Arxiv</a> -->
   </li>
   <li> 
   John Lazarsfeld, Georgios Piliouras, Ryann Sim, and Andre Wibisono.<br>
   <b>Fast and Furious Symmetric Learning in Zero‑Sum Games: Gradient Descent as Fictitious Play.</b>
-  <br>Conference on Learning Theory, 2025.<br>
+  <br><em>Conference on Learning Theory, 2025.</em><br>
   <a href="https://arxiv.org/abs/2506.13086" target="_blank">Arxiv</a>
   </li>
   <li> 
   Volkan Cevher, Georgios Piliouras, Ryann Sim, and Stratis Skoulakis.<br>
   <b>Min‑Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps.</b>
-  <br>SIAM Symposium on Simplicity in Algorithms, 2023.<br>
+  <br><em>SIAM Symposium on Simplicity in Algorithms, 2023.</em><br>
   <a href="https://arxiv.org/abs/2301.03931" target="_blank">Arxiv</a>
   </li>
   <li> 
   Rahul Jain, Georgios Piliouras, and Ryann Sim.<br>
   <b>Matrix Multiplicative Weights Updates in Quantum Zero‑Sum Games: Conservation Laws & Recurrence.</b>
-  <br>Advances in Neural Information Processing Systems, 35, 2022.<br>
+  <br><em>Advances in Neural Information Processing Systems, 35, 2022.</em><br>
   <a href="https://arxiv.org/abs/2211.01681" target="_blank">Arxiv</a>
   </li>
   <li> 
   Georgios Piliouras, Ryann Sim, and Stratis Skoulakis.<br>
   <b>Beyond Time‑Average Convergence: Near‑Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update.</b>
-  <br>Advances in Neural Information Processing Systems, 35, 2022.<br>
+  <br><em>Advances in Neural Information Processing Systems, 35, 2022.</em><br>
   <a href="https://arxiv.org/abs/2111.14737" target="_blank">Arxiv</a>
   </li>
   <li> 
   Ryann Sim, Stratis Skoulakis, Lillian J Ratliff, and Georgios Piliouras.<br>
   <b>Fast Convergence of Optimistic Gradient Ascent in Network Zero‑Sum Extensive Form Games</b>
-  <br>International Symposium on Algorithmic Game Theory. Springer, 2022.<br>
+  <br><em>International Symposium on Algorithmic Game Theory. Springer, 2022.</em><br>
   <a href="https://arxiv.org/abs/2207.08426" target="_blank">Arxiv</a>
   </li>
   <li> 
   Tanner Fiez, Ryann Sim, Stratis Skoulakis, Georgios Piliouras, and Lillian Ratliff.<br>
   <b>Online Learning in Periodic Zero‑Sum Games.</b>
-  <br>Advances in Neural Information Processing Systems, 34, 2021.<br>
+  <br><em>Advances in Neural Information Processing Systems, 34, 2021.</em><br>
   <a href="https://arxiv.org/abs/2111.03377" target="_blank">Arxiv</a>
   </li>
   <li> 
   Stratis Skoulakis, Tanner Fiez, Ryann Sim, Georgios Piliouras, and Lillian Ratliff.<br>
   <b>Evolutionary Game Theory Squared: Evolving Agents in Endogenously Evolving Zero‑Sum Games.</b>
-  <br>AAAI Conference on Artificial Intelligence, 2021.<br>
+  <br><em>AAAI Conference on Artificial Intelligence, 2021.</em><br>
   <a href="https://arxiv.org/abs/2012.08382" target="_blank">Arxiv</a>
   </li>
 </ul> 
