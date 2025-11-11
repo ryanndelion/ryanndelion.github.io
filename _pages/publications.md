@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,10 +16,20 @@ author_profile: true
 {% endfor %} -->
 
 <ul>
-  <li> Invited Talk: 'No‑Regret Learning and Equilbrium Computation in Quantum Games'. INFORMS International, Singapore, Jul. 2025</li>
+  <li> 
+  John Lazarsfeld, Georgios Piliouras, Ryann Sim, and Andre Wibisono.<br>  
+  **Fast and Furious Symmetric Learning in Zero‑Sum Games: Gradient Descent as Fictitious Play.**<br>
+  Conference on Learning Theory, 2025.<br>
+  [Arxiv link](https://arxiv.org/abs/2506.13086)
+  </li>
   <li> Invited Talk: 'Certifying Concavity and Monotonicity in Games via Sum‑of‑Squares Hierarchies'. King's College London, UK, Jul. 2025</li>
   <li> Invited Talk: 'On Un(der)‑Regularized Learning in Symmetric Zero‑Sum Games.' University of Adelaide, Australia, Feb. 2025</li>
 </ul> 
+
+# Conference Publications
+
+# Journal Publications
+
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
