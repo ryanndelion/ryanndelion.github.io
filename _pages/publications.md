@@ -19,7 +19,7 @@ author_profile: true
   <li> 
   Rui Zheng, Ryann Sim and Antonios Varvitsiotis<br>
   <b>Solving Imperfect-Recall Games via Sum-of-Squares Optimization.</b>
-  <br>Submitted to ICLR 2026.<br>
+  <br><em>Submitted to ICLR 2026.</em><br>
   <!-- <a href="https://arxiv.org/abs/2302.04789" target="_blank">Arxiv</a> -->
   </li>
 </ul>
@@ -29,13 +29,13 @@ author_profile: true
   <li> 
   Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>Learning in Quantum Common‑Interest Games and the Separability Problem.</b>
-  <br>Quantum 9 (2025): 1689.<br>
+  <br><em>Quantum 9 (2025): 1689.</em><br>
   <a href="https://arxiv.org/abs/2302.04789" target="_blank">Arxiv</a>
   </li>
   <li> 
   Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>No‑Regret Learning and Equilibrium Computation in Quantum Games.</b>
-  <br>Quantum 8 (2024): 1569.<br>
+  <br><em>Quantum 8 (2024): 1569.</em><br>
   <a href="https://arxiv.org/abs/2310.08473" target="_blank">Arxiv</a>
   </li>
 </ul>
@@ -46,7 +46,7 @@ author_profile: true
   <li> 
   Vincent Leon, Iosif Sakos, Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>Certifying Concavity and Monotonicity in Games via Sum‑of‑Squares Hierarchies.</b>
-  <br>Advances in Neural Information Processing Systems, 38, 2025.<br>
+  <br><em>Advances in Neural Information Processing Systems, 38, 2025.</em><br>
   <!-- <a href="https://arxiv.org/abs/2506.13086" target="_blank">Arxiv</a> -->
   </li>
   <li> 
