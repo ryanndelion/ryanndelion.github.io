@@ -10,8 +10,8 @@ redirect_from:
 
 # About Me
 
-I am a postdoctoral researcher at the [Singapore University of Technology and Design](https://sutd.edu.sg) (SUTD), working with [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/) and Georgios Piliouras. 
-I received my PhD from SUTD in 2024, where I was fortunate to be advised by Georgios Piliouras and supported by the [SUTD President's Graduate Fellowship](https://sutd.edu.sg/Admissions/Graduate/Scholarships).
+I am a postdoctoral researcher in the NUS [School of Computing](https://www.comp.nus.edu.sg/), working with [Chun Kai Ling](https://lingchunkai.github.io/). Previously, I was a postdoc at the Singapore University of Technology and Design (SUTD), working with [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/) and Georgios Piliouras. 
+I received my PhD from SUTD in 2024, where I was fortunate to be advised by Georgios Piliouras and supported by the SUTD President's Graduate Fellowship.
 
 My primary research interest is in studying multiagent systems through the lens of game theory, machine learning and optimization. I am also broadly interested in the intersection between practical ethics, social choice theory and game theory. My PhD thesis revolved around understanding the algorithmic and dynamical properties of online learning algorithms such as Multiplicative Weights Update in various contexts, from multi-agent to quantum settings. My dissertation is titled Online Learning in Games: Clairvoyance, Convergence and Recurrence and can be found <a href="../files/RyannDissertationFinalVersion.pdf" target="_blank">here</a>.
 
@@ -20,7 +20,7 @@ Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I
 <!-- Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir. -->
 
 ## News
-- [Oct 2025] I will be joining National University of Singapore as a postdoc under [Chun Kai Ling](https://lingchunkai.github.io/) in the Department of Computing.
+- [Oct 2025] Joined National University of Singapore as a postdoc under [Chun Kai Ling](https://lingchunkai.github.io/) in the School of Computing.
 - [Sep 2025] Two papers accepted to NeurIPS 2025.
 - [May 2025] Our paper "Fast and Furious Symmetric Learning in Zero-Sum Games: Gradient Descent as Fictitious Play" has been accepted to COLT 2025.
 - [Mar 2025] Our paper "[Learning in Quantum Common-Interest Games and the Separability Problem](https://quantum-journal.org/papers/q-2025-04-03-1689/)" has been accepted to Quantum journal.
