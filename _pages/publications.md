@@ -15,14 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<ul>
-  <li> 
-  [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
+<!-- <ul> -->
+  <!-- <li>  -->
+  - [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
   <b>Solving Imperfect-Recall Games via Sum-of-Squares Optimization.</b>
   <br><em>Submitted to ICLR 2026.</em><br>
   <!-- <a href="https://arxiv.org/abs/2302.04789" target="_blank">Arxiv</a> -->
-  </li>
-</ul>
+  <!-- </li> -->
+<!-- </ul> -->
 
 # Journal Publications
 <ul>
