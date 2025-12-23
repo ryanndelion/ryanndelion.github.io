@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a postdoctoral researcher in the NUS [School of Computing](https://www.comp.nus.edu.sg/), working with [Chun Kai Ling](https://lingchunkai.github.io/). Previously, I was a postdoc at the Singapore University of Technology and Design (SUTD), working with [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/) and Georgios Piliouras. 
+I am a postdoctoral researcher in the NUS [School of Computing](https://www.comp.nus.edu.sg/), working with [Chun Kai Ling](https://lingchunkai.github.io/). Previously, I was a postdoc at the Singapore University of Technology and Design (SUTD), working with [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/) and [Georgios Piliouras](https://georgiospiliouras.com). 
 I received my PhD from SUTD in 2024, where I was fortunate to be advised by Georgios Piliouras and supported by the SUTD President's Graduate Fellowship.
 
 My primary research interest is in studying multiagent systems through the lens of game theory, machine learning and optimization. I am also broadly interested in the intersection between practical ethics, social choice theory and game theory. My PhD thesis revolved around understanding the algorithmic and dynamical properties of online learning algorithms such as Multiplicative Weights Update in various contexts, from multi-agent to quantum settings. My dissertation is titled Online Learning in Games: Clairvoyance, Convergence and Recurrence and can be found <a href="../files/RyannDissertationFinalVersion.pdf" target="_blank">here</a>.
