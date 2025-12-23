@@ -26,22 +26,19 @@ author_profile: true
 <!-- </ul> -->
 
 # Journal Publications
-<!-- <ul>
-  <li>  -->
+
   - Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>Learning in Quantum Common‑Interest Games and the Separability Problem.</b>
   <br><em>Quantum 9 (2025): 1689.</em><br>
 
   [Arxiv](https://arxiv.org/abs/2302.04789)
-  <!-- <a href="https://arxiv.org/abs/2302.04789" target="_blank">Arxiv</a> -->
 
   - Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>No‑Regret Learning and Equilibrium Computation in Quantum Games.</b>
   <br><em>Quantum 8 (2024): 1569.</em><br>
+  
   [Arxiv](https://arxiv.org/abs/2310.08473)
-  <!-- <a href="https://arxiv.org/abs/2310.08473" target="_blank">Arxiv</a> -->
-  <!-- </li>
-  </ul> -->
+
 
 # Conference Publications
 
