@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "ryann.sim [at] nus [dot] edu [dot] sg"
+  name             : "Ryann Sim"
   avatar           : "headshot3.jpeg"
-  bio              : "Postdoctoral Researcher @ NUS SoC"
+  bio              : "Postdoctoral Researcher @ NUS SoC <br> ryann.sim [at] nus [dot] edu [dot] sg"
   location         : "Singapore"
   employer         :
   pubmed           :
