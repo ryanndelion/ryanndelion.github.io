@@ -17,9 +17,17 @@ author_profile: true
 
 <!-- <ul> -->
   <!-- <li>  -->
+  -  [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
+  <b>Welfare Optimization over Semi‑Algebraic Equilibrium Sets.</b>
+  
+  - [Thomas Schwarz](https://tom-schwarz.com), Ryann Sim and Chun Kai Ling<br>
+  <b>Equilibrium Computation in Games with Stochastic Action Sets.</b>
+  [Arxiv](https://arxiv.org/abs/2602.16234)
+
   - [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
   <b>Solving Imperfect-Recall Games via Sum-of-Squares Optimization.</b>
-  <br><em>Submitted to ICLR 2026.</em><br>
+  [Arxiv](https://arxiv.org/abs/2602.21722)
+  <!-- <br><em>Submitted to ICLR 2026.</em><br> -->
   <!-- [Arxiv](https://arxiv.org/abs/2302.04789) -->
   <!-- <a href="https://arxiv.org/abs/2302.04789" target="_blank">Arxiv</a> -->
   <!-- </li> -->

@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryann Sim"
+  name             : "ryann.sim [at] nus [dot] edu [dot] sg"
   avatar           : "headshot3.jpeg"
   bio              : "Postdoctoral Researcher @ NUS SoC"
   location         : "Singapore"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.sg/citations?user=nejjvjcAAAAJ&hl=en"
-  email            : "ryann.sim@nus.edu.sg"
+  email            : 
   researchgate     :
   uri              :
   bitbucket        :

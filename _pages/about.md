@@ -20,6 +20,8 @@ Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I
 <!-- Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir. -->
 
 ## News
+- [Jan 2026] Awarded ESD Outstanding Graduate Teaching Assistant for AY25/26.
+- [Oct 2025] Selected as NeurIPS 2025 Top Reviewer.
 - [Oct 2025] Joined National University of Singapore as a postdoc under [Chun Kai Ling](https://lingchunkai.github.io/) in the School of Computing.
 - [Sep 2025] Two papers accepted to NeurIPS 2025.
 - [May 2025] Our paper "Fast and Furious Symmetric Learning in Zero-Sum Games: Gradient Descent as Fictitious Play" has been accepted to COLT 2025.
