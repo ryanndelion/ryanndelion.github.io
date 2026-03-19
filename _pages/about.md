@@ -17,6 +17,8 @@ My primary research interest is in studying multiagent systems through the lens 
 
 Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I studied Operations Research in the ESD pillar. I graduated Summa Cum Laude in 2019.
 
+Feel free to reach out to me via my NUS email: <code> ryann.sim [at] nus [dot] edu [dot] sg</code> 
+
 <!-- Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir. -->
 
 ## News
