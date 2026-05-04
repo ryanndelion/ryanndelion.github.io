@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- <ul> -->
   <!-- <li>  -->
-# Working Papers
+<!-- # Working Papers -->
 
   -  [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
   <b>Welfare Optimization over Semi‑Algebraic Equilibrium Sets.</b>
