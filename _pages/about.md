@@ -22,6 +22,7 @@ Feel free to reach out to me via email: <code>ryann.sim [at] nus [dot] edu [dot]
 <!-- Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir. -->
 
 ## News
+- [May 2026] Our paper on imperfect-recall games and sum-of-squares has been accepted to ICML 2026.
 - [Jan 2026] Awarded ESD Outstanding Graduate Teaching Assistant for AY25/26.
 - [Oct 2025] Selected as NeurIPS 2025 Top Reviewer.
 - [Oct 2025] Joined National University of Singapore as a postdoc under [Chun Kai Ling](https://lingchunkai.github.io/) in the School of Computing.

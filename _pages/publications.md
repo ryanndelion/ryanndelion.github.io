@@ -17,6 +17,8 @@ author_profile: true
 
 <!-- <ul> -->
   <!-- <li>  -->
+# Working Papers
+
   -  [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
   <b>Welfare Optimization over Semi‑Algebraic Equilibrium Sets.</b>
   
@@ -24,9 +26,7 @@ author_profile: true
   <b>Computing Equilibria in Games with Stochastic Action Sets.</b>
   <br>[[Arxiv]](https://arxiv.org/abs/2602.16234)<br>
 
-  - [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
-  <b>Solving Imperfect-Recall Games via Sum-of-Squares Optimization.</b>
-  <br>[[Arxiv]](https://arxiv.org/abs/2602.21722)<br>
+  
   <!-- <br><em>Submitted to ICLR 2026.</em><br> -->
   <!-- [Arxiv](https://arxiv.org/abs/2302.04789) -->
   <!-- <a href="https://arxiv.org/abs/2302.04789" target="_blank">Arxiv</a> -->
@@ -47,6 +47,11 @@ author_profile: true
 
 
 # Conference Publications
+
+  - [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
+  <b>Solving Imperfect-Recall Games via Sum-of-Squares Optimization.</b>
+  <br><em>International Conference on Machine Learning, 2026.</em><br>
+  <br>[[Arxiv]](https://arxiv.org/abs/2602.21722)<br>
 
   - [Vincent Leon](https://vin-leon.github.io/), [Iosif Sakos](https://joseph-brainstorm.github.io/), Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>Certifying Concavity and Monotonicity in Games via Sum‑of‑Squares Hierarchies.</b>
