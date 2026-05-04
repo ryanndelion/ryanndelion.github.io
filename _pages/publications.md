@@ -51,7 +51,7 @@ author_profile: true
   - [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
   <b>Solving Imperfect-Recall Games via Sum-of-Squares Optimization.</b>
   <br><em>International Conference on Machine Learning, 2026.</em><br>
-  <br>[[Arxiv]](https://arxiv.org/abs/2602.21722)<br>
+  [[Arxiv]](https://arxiv.org/abs/2602.21722)
 
   - [Vincent Leon](https://vin-leon.github.io/), [Iosif Sakos](https://joseph-brainstorm.github.io/), Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>Certifying Concavity and Monotonicity in Games via Sum‑of‑Squares Hierarchies.</b>
