@@ -19,7 +19,7 @@ Prior to embarking on my PhD journey, I was an undergrad (also at SUTD), where I
 
 I am always happy to chat (about research or otherwise)! 
 Feel free to reach out to me via email: 
-<br><code>ryann.sim [at] nus [dot] edu [dot] sg</code> </br>
+<br><code>ryann.sim [at] nus [dot] edu [dot] sg</code>
 <!-- Outside of research, I am an over-analyzer of movies and an avid reader of poetry. I also run tabletop role-playing games regularly and sing in a choir. -->
 
 ## News
