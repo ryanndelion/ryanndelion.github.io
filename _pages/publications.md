@@ -24,7 +24,7 @@ author_profile: true
   - [Thomas Schwarz](https://tom-schwarz.com), Ryann Sim, and Chun Kai Ling<br>
   <b>Computing Equilibria in Games with Stochastic Action Sets.</b>
   <br><em>Under review at NeurIPS 2026</em><br>
-  <br>[[Arxiv]](https://arxiv.org/abs/2602.16234)<br>
+  [[Arxiv]](https://arxiv.org/abs/2602.16234)
 
   - Chun Kai Ling, Thomas Schwarz, and Ryann Sim<br>
   <b>Equilibrium Computation in Extensive-Form Games with Stochastic Action Sets.</b>
@@ -109,6 +109,3 @@ author_profile: true
 -  [Rui Zheng](https://www.sutd.edu.sg/profile/zheng-rui/), Ryann Sim and Antonios Varvitsiotis<br>
   <b>Welfare Optimization over Semi‑Algebraic Equilibrium Sets.</b>
   <br><em>OptLearnMAS-26 @ 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026.</em><br>
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
