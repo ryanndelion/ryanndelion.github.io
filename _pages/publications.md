@@ -93,7 +93,7 @@ author_profile: true
   <br><em>International Symposium on Algorithmic Game Theory. Springer, 2022.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2207.08426)
   
-  - Tanner Fiez*, Ryann Sim*, Stratis Skoulakis, Georgios Piliouras, and Lillian Ratliff.<br>
+  - Tanner Fiez\*, Ryann Sim\*, Stratis Skoulakis, Georgios Piliouras, and Lillian Ratliff.<br>
   <b>Online Learning in Periodic Zero‑Sum Games.</b>
   <br><em>Advances in Neural Information Processing Systems, 34, 2021.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2111.03377)
@@ -112,6 +112,6 @@ author_profile: true
 
 
 ### Author ordering key
-(&alpha,&beta) denotes alphabetical author ordering.
-* denotes equal contribution.
-&dagger denotes graduate student significantly advised.
+(\alpha,\beta) denotes alphabetical author ordering.<br>
+\* denotes equal contribution.<br>
+\dagger denotes graduate student significantly advised.<br>
