@@ -40,12 +40,12 @@ author_profile: true
 
 # Journal Publications
 
-  - ($\alpha$,$\beta$) Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
+  - ($\alpha$-$\beta$) Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>Learning in Quantum Common‑Interest Games and the Separability Problem.</b>
   <br><em>Quantum 9 (2025): 1689.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2302.04789)
 
-  - ($\alpha$,$\beta$) Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
+  - ($\alpha$-$\beta$) Wayne Lin, Georgios Piliouras, Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>No‑Regret Learning and Equilibrium Computation in Quantum Games.</b>
   <br><em>Quantum 8 (2024): 1569.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2310.08473)
@@ -58,32 +58,32 @@ author_profile: true
   <br><em>International Conference on Machine Learning, 2026.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2602.21722)
 
-  - ($\alpha$,$\beta$) [Vincent Leon](https://vin-leon.github.io/)$^\dagger$, [Iosif Sakos](https://joseph-brainstorm.github.io/), Ryann Sim, and Antonios Varvitsiotis.<br>
+  - ($\alpha$-$\beta$) [Vincent Leon](https://vin-leon.github.io/)$^\dagger$, [Iosif Sakos](https://joseph-brainstorm.github.io/), Ryann Sim, and Antonios Varvitsiotis.<br>
   <b>Certifying Concavity and Monotonicity in Games via Sum‑of‑Squares Hierarchies.</b>
   <br><em>Advances in Neural Information Processing Systems, 38, 2025.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2512.10292)
 
-  - ($\alpha$,$\beta$) [John Lazarsfeld](https://jlazarsfeld.github.io/), Georgios Piliouras, Ryann Sim, and [Stratis Skoulakis](https://sskoul.github.io/).<br>
+  - ($\alpha$-$\beta$) [John Lazarsfeld](https://jlazarsfeld.github.io/), Georgios Piliouras, Ryann Sim, and [Stratis Skoulakis](https://sskoul.github.io/).<br>
   <b>Optimism Without Regularization: Constant Regret in Zero‑Sum Games.</b>
   <br><em>Advances in Neural Information Processing Systems, 38, 2025.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2506.16736)
 
-  - ($\alpha$,$\beta$) John Lazarsfeld, Georgios Piliouras, Ryann Sim, and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/).<br>
+  - ($\alpha$-$\beta$) John Lazarsfeld, Georgios Piliouras, Ryann Sim, and [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/).<br>
   <b>Fast and Furious Symmetric Learning in Zero‑Sum Games: Gradient Descent as Fictitious Play.</b>
   <br><em>Conference on Learning Theory, 2025.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2506.13086)
 
-  - ($\alpha$,$\beta$) [Volkan Cevher](https://www.epfl.ch/labs/lions/people/volkan-cevher/), Georgios Piliouras, Ryann Sim, and Stratis Skoulakis.<br>
+  - ($\alpha$-$\beta$) [Volkan Cevher](https://www.epfl.ch/labs/lions/people/volkan-cevher/), Georgios Piliouras, Ryann Sim, and Stratis Skoulakis.<br>
   <b>Min‑Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps.</b>
   <br><em>SIAM Symposium on Simplicity in Algorithms, 2023.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2301.03931)
 
-  - ($\alpha$,$\beta$) [Rahul Jain](https://www.comp.nus.edu.sg/~rahul/), Georgios Piliouras, and Ryann Sim.<br>
+  - ($\alpha$-$\beta$) [Rahul Jain](https://www.comp.nus.edu.sg/~rahul/), Georgios Piliouras, and Ryann Sim.<br>
   <b>Matrix Multiplicative Weights Updates in Quantum Zero‑Sum Games: Conservation Laws & Recurrence.</b>
   <br><em>Advances in Neural Information Processing Systems, 35, 2022.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2211.01681)
 
-  - ($\alpha$,$\beta$) Georgios Piliouras, Ryann Sim, and Stratis Skoulakis.<br>
+  - ($\alpha$-$\beta$) Georgios Piliouras, Ryann Sim, and Stratis Skoulakis.<br>
   <b>Beyond Time‑Average Convergence: Near‑Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update.</b>
   <br><em>Advances in Neural Information Processing Systems, 35, 2022.</em><br>
   [[Arxiv]](https://arxiv.org/abs/2111.14737)
@@ -112,6 +112,6 @@ author_profile: true
 
 
 ### Author ordering key
-($\alpha$,$\beta$) denotes alphabetical author ordering.<br>
+($\alpha$-$\beta$) denotes alphabetical author ordering.<br>
 \* denotes equal contribution.<br>
 $\dagger$ denotes graduate student significantly advised.<br>
