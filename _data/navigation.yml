@@ -6,11 +6,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  # - title: "Talks"
-  #   url: /talks/
-
-  - title: "Talks & Teaching"
+  - title: "Teaching"
     url: /teaching/
+
+  - title: "Academic Engagement"
+    url: /engagement/
 
   - title: "Personal"
     url: /personal/
