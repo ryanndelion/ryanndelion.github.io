@@ -115,7 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  blog		   :  "https://dankerdays.wordpress.com/"
+  blog		   :  
+  # "https://dankerdays.wordpress.com/"
 
 
 # Reading Files
