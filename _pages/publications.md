@@ -19,16 +19,16 @@ author_profile: true
   <!-- <li>  -->
 <!-- # Working Papers -->
 
-  
+# Working Papers  
   
   - [Thomas Schwarz](https://tom-schwarz.com)$^\dagger$, Jiaru Li, Ryann Sim, and Chun Kai Ling<br>
   <b>Computing Equilibria in Games with Stochastic Action Sets.</b>
-  <br><em>Under review at AAAI 2027</em><br>
+  <br><em>In submission</em><br>
   [[Arxiv]](https://arxiv.org/abs/2602.16234)
 
-  - Thomas Schwarz, Jiaru Li, Ryann Sim, and Chun Kai Ling<br>
+  - Thomas Schwarz$^\dagger$, Jiaru Li$^\dagger$, Ryann Sim, and Chun Kai Ling<br>
   <b>Equilibrium Computation in Extensive-Form Games with Stochastic Action Sets.</b>
-  <br><em>Under review at WINE 2026</em><br>
+  <br><em>In submission</em><br>
   [[Arxiv]](https://arxiv.org/abs/2606.13093)
 
   
