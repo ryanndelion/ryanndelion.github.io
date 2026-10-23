@@ -9,7 +9,10 @@ author_profile: true
 <!-- # Talks -->
 <!-- # Teaching -->
 
-I am passionate about teaching, and am always open to mentorship and teaching opportunities. 
+<!-- I am passionate about teaching, and am always open to mentorship and teaching opportunities.  -->
+
+
+## Classes Taught
 The following list includes classes I co-taught as a postdoc and TA-ed for as a PhD student at SUTD. 
 My duties included delivering lectures, holding recitations/office hours and developing course content.
 <ul>
@@ -29,6 +32,11 @@ I also created and ran several workshops during SUTD's independent activity peri
   <li>Introduction to $\LaTeX$</li>
   <li>Introduction to HTML and CSS</li>
 </ul> 
+
+<!-- 
+## Mentoring
+Students who are keen to work with me, particularly final-year undergrads and master's students at SUTD, please drop me an email. -->
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
