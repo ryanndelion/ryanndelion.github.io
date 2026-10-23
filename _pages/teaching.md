@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 <!-- # Talks -->
-# Teaching
+<!-- # Teaching -->
 
 I am passionate about teaching, and am always open to mentorship and teaching opportunities. 
 The following list includes classes I co-taught as a postdoc and TA-ed for as a PhD student at SUTD. 
